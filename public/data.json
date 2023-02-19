@@ -1,0 +1,22 @@
+[
+    {
+        "id":0,
+        "name":"Tapash",
+        "bio":"Hy I am Doctor by Profession"
+    },
+    {
+        "id":1,
+        "name":"Dipesh",
+        "bio":"Hy I am Boka by Profession"
+    },
+    {
+        "id":2,
+        "name":"Anish",
+        "bio":"Hy I am pilot by Profession"
+    },
+    {
+        "id":3,
+        "name":"Nischal",
+        "bio":"Hy I am Criketor by Profession"
+    }
+]
